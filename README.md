@@ -5,4 +5,4 @@
 
 # Homework 
 here we have to find a way to show (calculate or use both function by using one method or button or anything)
-It means we will not use 2 seperate button nor calculation. 
+It means we will not use 2 seperate buttons nor calculation. 
